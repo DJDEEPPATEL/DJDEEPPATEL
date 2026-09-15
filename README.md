@@ -1,7 +1,5 @@
 <div align="center">
 
-# Welcome 👋
-
 ## Hey, I'm Deep Patel 👋
 
 ### Data Analyst | Business Intelligence | Data Analytics
@@ -9,8 +7,8 @@
 Turning data into actionable insights through analytics, visualization, and business intelligence.
 
 [Profile](https://github.com/DJDEEPPATEL) •
-[LinkedIn](https://www.linkedin.com/in/pateldeep09856/) •
-[Email](mailto:YOUR_EMAIL@example.com)
+[LinkedIn](https://www.linkedin.com/in/deep-patel-msc-cs-0aa383200/) •
+[Email](mailto:deeppatel2636@gmail.com)
 
 </div>
 
@@ -18,7 +16,7 @@ Turning data into actionable insights through analytics, visualization, and busi
 
 ## 📊 About Me
 
-I'm a Data Analyst with 5+ years of experience working with data across retail, finance, healthcare, and technology.
+I'm a Data Analyst with 3+ years of experience working with data across retail, finance, healthcare, and technology.
 
 I specialize in transforming raw data into meaningful business insights using SQL, Power BI, Tableau, Python, and Excel.
 
@@ -47,7 +45,6 @@ I enjoy solving business problems through data and building analytics solutions 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
@@ -78,9 +75,9 @@ Financial reporting and analytics dashboard designed to monitor business perform
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Deep Patel](https://www.linkedin.com/in/pateldeep09856/)
+- 💼 LinkedIn: [Deep Patel](https://www.linkedin.com/in/deep-patel-msc-cs-0aa383200/)
 - 📊 GitHub: [DJDEEPPATEL](https://github.com/DJDEEPPATEL)
-- 📧 Email: YOUR_EMAIL@example.com
+- 📧 Email: deeppatel2636@gmail.com
 
 ---
 
