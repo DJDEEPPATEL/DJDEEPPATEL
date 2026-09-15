@@ -1,46 +1,91 @@
-👤 About Me
+<div align="center">
 
-I'm a Data Analyst with 3+ years of experience designing Power BI dashboards, building SQL-based reporting solutions, and developing analytical models that support data-driven decisions. I'm skilled at translating complex, messy data into insights that both technical and non-technical stakeholders can act on.
+# Welcome 👋
 
-I've worked across BI reporting, data quality frameworks, and predictive modelling — currently completing my MSc in Computational Science at Laurentian University, with coursework in Machine Learning, Big Data, and Image Processing.
+## Hey, I'm Deep Patel 👋
 
-I care about clean data pipelines, reliable reporting, and dashboards that people actually use.
+### Data Analyst | Business Intelligence | Data Analytics
 
-🧠 Skillset
+Turning data into actionable insights through analytics, visualization, and business intelligence.
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+[Profile](https://github.com/DJDEEPPATEL) •
+[LinkedIn](https://www.linkedin.com/in/pateldeep09856/) •
+[Email](mailto:YOUR_EMAIL@example.com)
 
-🛠️ Tech Stack
+</div>
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+---
 
-💼 Experience
+## 📊 About Me
 
-Data Analyst — CGI (Jun 2025 – May 2026)
+I'm a Data Analyst with 5+ years of experience working with data across retail, finance, healthcare, and technology.
 
-Designed and maintained interactive Power BI dashboards for operational reporting and decision-making
-Built SQL queries, data models, and datasets that improved reporting efficiency and accessibility
-Applied Python-based statistical analysis and predictive modelling to student performance data
+I specialize in transforming raw data into meaningful business insights using SQL, Power BI, Tableau, Python, and Excel.
 
-Junior Data Analyst — Cygnet Infotech (Aug 2020 – Nov 2023)
+My experience includes developing dashboards, defining KPIs, analyzing business performance, improving reporting processes, and working with stakeholders to support data-driven decision making.
 
-Developed recurring Power BI and Tableau dashboards for executive and operational reporting
-Improved reporting efficiency by 35% through process optimization and better data management
-Supported Git-based version control and CI/CD deployment of reporting solutions
+I enjoy solving business problems through data and building analytics solutions that are clear, practical, and easy to understand.
 
-Business Intelligence Analyst (Intern) — Vinayak Infosoft (Nov 2019 – Jun 2020)
+---
 
-Improved client service process efficiency by 30% through applied analytical techniques
-Contributed to data models and data marts using TensorFlow, PyTorch, and Keras
-📌 Featured Projects
-Enterprise Performance Dashboard — Power BI, SQL Server, DAX — KPI and operational performance tracking with drill-through functionality
-Data Quality & Reporting Framework — SQL, Power BI — Automated validation checks and exception reporting for data reliability
-Operational Reporting & Performance Analytics — Power BI, Excel, SQL — Multi-source dashboards for service utilization and workload trends
-🎓 Education
-MSc, Computational Science — Laurentian University (2025 – 2026)
-BEng, Computer Engineering — LDRP ITR (2019 – 2023)
-📜 Certifications
-PL-300: Microsoft Power BI Data Analyst — Microsoft
-Introduction to Data Analytics — IBM
-Introduction to Business Analytics — IBM
-Ask Questions to Make Data-Driven Decisions — Google
+## 🧠 Skillset
+
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
+![Data Modeling](https://img.shields.io/badge/Data-Modeling-orange)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
+![Dashboard Development](https://img.shields.io/badge/Dashboard-Development-purple)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-red)
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+## 📈 Featured Projects
+
+### 🏥 Healthcare Dashboard
+Interactive Power BI dashboard for analyzing healthcare performance, service utilization, and key operational metrics.
+
+**Tools:** Power BI • DAX • Power Query • Data Modeling
+
+---
+
+### 🚗 ACURA Dashboard
+Interactive automotive analytics dashboard focused on vehicle performance, customer insights, and business KPIs.
+
+**Tools:** Power BI • DAX • Data Visualization
+
+---
+
+### 💰 Financial Dashboard
+Financial reporting and analytics dashboard designed to monitor business performance and financial KPIs.
+
+**Tools:** Power BI • SQL • Excel • Data Modeling
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Deep Patel](https://www.linkedin.com/in/pateldeep09856/)
+- 📊 GitHub: [DJDEEPPATEL](https://github.com/DJDEEPPATEL)
+- 📧 Email: YOUR_EMAIL@example.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+</div>
