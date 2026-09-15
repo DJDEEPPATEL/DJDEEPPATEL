@@ -15,8 +15,7 @@ Turning data into actionable insights through analytics, visualization, and busi
 <a href="https://www.linkedin.com/in/deep-patel-msc-cs-0aa383200/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a>
-</a>
+
 <a href="mailto:deeppatel2636@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
